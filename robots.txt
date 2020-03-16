@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aengahmeew.theframe-mk.co.kr/sitemap.xml
